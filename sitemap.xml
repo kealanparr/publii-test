@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kealanparr.github.io/publii-test/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kealanparr.github.io/publii-test/</loc>
+</url>
+<url>
+<loc>https://kealanparr.github.io/publii-test/even-more.html</loc>
+<lastmod>2021-05-22T16:42:59+01:00</lastmod>
+</url>
+<url>
+<loc>https://kealanparr.github.io/publii-test/go-on-one-more.html</loc>
+<lastmod>2021-05-22T16:43:08+01:00</lastmod>
+</url>
+<url>
+<loc>https://kealanparr.github.io/publii-test/test-post-2.html</loc>
+<lastmod>2021-05-22T16:42:48+01:00</lastmod>
+</url>
+<url>
+<loc>https://kealanparr.github.io/publii-test/test-post.html</loc>
+<lastmod>2021-05-22T16:42:35+01:00</lastmod>
+</url>
+</urlset>

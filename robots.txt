@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kealanparr.github.io/publii-test/sitemap.xml
