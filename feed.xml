@@ -3,12 +3,32 @@
     <title>kealanparr.com</title>
     <link href="https://kealanparr.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://kealanparr.github.io/publii-test" />
-    <updated>2021-05-22T16:43:08+01:00</updated>
+    <updated>2021-05-22T17:20:55+01:00</updated>
     <author>
         <name>Kealan Parr</name>
     </author>
     <id>https://kealanparr.github.io/publii-test</id>
 
+    <entry>
+        <title>Ok</title>
+        <author>
+            <name>Kealan Parr</name>
+        </author>
+        <link href="https://kealanparr.github.io/publii-test/ok.html"/>
+        <id>https://kealanparr.github.io/publii-test/ok.html</id>
+
+        <updated>2021-05-22T17:20:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This will be my final post!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This will be my final post!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Go on.... One more!</title>
         <author>
